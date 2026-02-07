@@ -4,8 +4,6 @@ Rastre provides audit logging infrastructure for applications that need to recor
 
 Whether you're answering "who accessed this customer's personal data?" during a GDPR request, demonstrating your data governance practices in enterprise sales, preparing for compliance audits, or investigating a data modification incident, Rastre gives you reliable records of data-related events.
 
----
-
 **Data-centric accountability**  
 Record who accessed, modified, exported, or deleted specific data records. Not general product analytics &mdash; focused audit trails for demonstrating data governance and protection practices required by GDPR, HIPAA, and modern data protection regulations.
 
@@ -20,8 +18,6 @@ Tokenization replaces user identities before events reach Rastre's infrastructur
 
 **Multi-environment by default**  
 Separate audit trails for sandbox vs production. Different compliance requirements for different event types. Different retention policies per customer. Designed from the ground up for SaaS applications serving regulated industries with diverse compliance needs.
-
----
 
 ## Use Cases
 
